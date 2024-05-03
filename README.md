@@ -1,11 +1,10 @@
 ![image](https://github.com/OtterUnderwater/OtterUnderwater/assets/130929560/d96a4794-a7c3-4cfa-85f0-ed770f8e4aad)
 I’m currently studying at a college.  
 The main repositories that I am currently working on are in the pinned.  
-![](https://komarev.com/ghpvc/?username=OtterUnderwater&color=abbd9a&abbreviated=true&style=for-the-badge)   
 
 ![OtterUnderwater's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OtterUnderwater&theme=merko&line=859f6c&point=abbd9a)  
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)  
-
+![](https://komarev.com/ghpvc/?username=OtterUnderwater&color=abbd9a&abbreviated=true&style=for-the-badge)   
 I use languages:  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
