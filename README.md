@@ -13,12 +13,12 @@ You can contact me: @array_otter
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)  
 
 
-[![OtterUnderwater's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OtterUnderwater&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![OtterUnderwater's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OtterUnderwater&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![OtterUnderwater's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OtterUnderwater&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-[![OtterUnderwater's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OtterUnderwater&theme=github-compact&color=abbd9a&title_color=abbd9a&line=abbd9a&point=abbd9a&area_color=abbd9a)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+[![OtterUnderwater's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OtterUnderwater&theme=merko&line=859f6c&point=abbd9a)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![OtterUnderwater's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OtterUnderwater&theme=merko&color=abbd9a&title_color=859f6c&line=859f6c&point=abbd9a&area_color=859f6c)]
+
 
 [![OtterUnderwater's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OtterUnderwater&theme=github-compact&color=abbd9a&title_color=859f6c&line=859f6c&point=abbd9a&area_color=859f6c)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
