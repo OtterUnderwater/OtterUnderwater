@@ -13,16 +13,13 @@ You can contact me: @array_otter
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)  
 
 
-![](https://komarev.com/ghpvc/?username=OtterUnderwater)    
 
-![](https://visitcount.itsvg.in/api?id=OtterUnderwater&color=3&icon=0)    
+![](https://komarev.com/ghpvc/?username=OtterUnderwater&color=abbd9a&abbreviated=true&style=flat-square)
+![](https://komarev.com/ghpvc/?username=OtterUnderwater&color=abbd9a&abbreviated=true&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=OtterUnderwater&color=abbd9a&abbreviated=true&style=flat)
+
 ![](https://visitcount.itsvg.in/api?id=OtterUnderwater&color=3&icon=5)  
-![](https://visitcount.itsvg.in/api?id=OtterUnderwater&color=8&icon=0)     
-![](https://visitcount.itsvg.in/api?id=OtterUnderwater&color=8&icon=5)    
-
-![](https://visitcount.itsvg.in/api?id=OtterUnderwater&color=3&icon=0&label=View%20Count)    
-![](https://visitcount.itsvg.in/api?id=OtterUnderwater&color=8&icon=0&label=View%20Count)    
-![](https://visitcount.itsvg.in/api?id=OtterUnderwater&color=8&icon=5&label=View%20Count)   
+![](https://visitcount.itsvg.in/api?id=OtterUnderwater&color=8&icon=5&label=View%100Count)   
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)  
