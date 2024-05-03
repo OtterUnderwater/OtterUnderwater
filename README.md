@@ -12,13 +12,7 @@ You can contact me: @array_otter
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)  
 
-[![OtterUnderwater's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OtterUnderwater&theme=merko&line=859f6c&point=abbd9a)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-[![OtterUnderwater's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OtterUnderwater&theme=github-compact&line=859f6c&point=abbd9a)](https://github.com/ashutosh00710/github-readme-activity-graph)  
-
-
-
-![](https://komarev.com/ghpvc/?username=OtterUnderwater&color=abbd9a&abbreviated=true&style=for-the-badge)  
+[![OtterUnderwater's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OtterUnderwater&theme=merko&line=859f6c&point=abbd9a)]    
+![](https://komarev.com/ghpvc/?username=OtterUnderwater&color=abbd9a&abbreviated=true&style=for-the-badge)    
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)  
