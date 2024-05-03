@@ -12,12 +12,17 @@ You can contact me: @array_otter
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OtterUnderwater)](https://github.com/anuraghazra/github-readme-stats)  
 
-![](https://komarev.com/ghpvc/?username=OtterUnderwater)  
+![](https://komarev.com/ghpvc/?username=OtterUnderwater)    
 
+![](https://visitcount.itsvg.in/api?id=OtterUnderwater&color=3&icon=0)    
+![](https://visitcount.itsvg.in/api?id=OtterUnderwater&color=3&icon=5)  
+![](https://visitcount.itsvg.in/api?id=OtterUnderwater&color=8&icon=0)     
+![](https://visitcount.itsvg.in/api?id=OtterUnderwater&color=8&icon=5)    
 
-![Jokes Card](https://readme-jokes.vercel.app/api)  
+![](https://visitcount.itsvg.in/api?id=OtterUnderwater&color=3&icon=0&label=View%20Count)    
+![](https://visitcount.itsvg.in/api?id=OtterUnderwater&color=8&icon=0&label=View%20Count)    
+![](https://visitcount.itsvg.in/api?id=OtterUnderwater&color=8&icon=5&label=View%20Count)   
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)  
